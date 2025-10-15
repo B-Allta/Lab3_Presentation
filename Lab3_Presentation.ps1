@@ -232,7 +232,7 @@ function Slide-7 {
 }
 
 function Show-Menu {
-    Banner "IT305 Lab 3 - Terminal Showcase Menu"
+    Banner "IT305 Lab 3 - Presentation Menu"
     Write-Host "  1) Export Windows 11 from Hyper-V"                    -ForegroundColor Green
     Write-Host "  2) Prepare E: (assign, format, verify)"               -ForegroundColor Green
     Write-Host "  3) Convert VHDX -> VDI on E: and build VB VM"         -ForegroundColor Green
